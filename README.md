@@ -1,4 +1,4 @@
 # githubtask1
 Name: Aditya Kumar
 Roll Number:220101005
-Hi,This is Aditya Kumar from CSE department.I am currently in Brahamaputra hostel.I am extremely excited about the Coding Week and hope to participate in the competetive programming,open source,machine learning and web devolopment modules.
+Hi,This is Aditya Kumar from CSE department.I am currently in Brahamaputra hostel.I am extremely excited about the Coding Week and hope to participate in the competetive programming,open source,machine learning and web devolopment modules.I want to do more and more open source because the feeling to accomplishing a task in a team has a completely different and satisfying feeling.I love to learn new things and this is where open source is extremely suites me.The amount of new technologies That I will learn through open source is huge and thats the reason why I am extremely excited about open source.
